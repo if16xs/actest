@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://if16xs.github.io/actest/</loc></url><url><loc>https://if16xs.github.io/actest/about.html</loc></url><url><loc>https://if16xs.github.io/actest/products.html</loc></url><url><loc>https://if16xs.github.io/actest/services.html</loc></url><url><loc>https://if16xs.github.io/actest/technologies.html</loc></url><url><loc>https://if16xs.github.io/actest/downloads.html</loc></url><url><loc>https://if16xs.github.io/actest/docs.html</loc></url><url><loc>https://if16xs.github.io/actest/changelog.html</loc></url><url><loc>https://if16xs.github.io/actest/support.html</loc></url><url><loc>https://if16xs.github.io/actest/status.html</loc></url><url><loc>https://if16xs.github.io/actest/security.html</loc></url><url><loc>https://if16xs.github.io/actest/faq.html</loc></url><url><loc>https://if16xs.github.io/actest/contact.html</loc></url><url><loc>https://if16xs.github.io/actest/legal/</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://if16xs.github.io/</loc></url>
+  <url><loc>https://if16xs.github.io/about.html</loc></url>
+  <url><loc>https://if16xs.github.io/products.html</loc></url>
+  <url><loc>https://if16xs.github.io/services.html</loc></url>
+  <url><loc>https://if16xs.github.io/technologies.html</loc></url>
+  <url><loc>https://if16xs.github.io/downloads.html</loc></url>
+  <url><loc>https://if16xs.github.io/docs.html</loc></url>
+  <url><loc>https://if16xs.github.io/changelog.html</loc></url>
+  <url><loc>https://if16xs.github.io/support.html</loc></url>
+  <url><loc>https://if16xs.github.io/status.html</loc></url>
+  <url><loc>https://if16xs.github.io/security.html</loc></url>
+  <url><loc>https://if16xs.github.io/faq.html</loc></url>
+  <url><loc>https://if16xs.github.io/contact.html</loc></url>
+  <url><loc>https://if16xs.github.io/legal/</loc></url>
+</urlset>
