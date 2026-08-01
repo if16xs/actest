@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://if16xs.github.io/actest/sitemap.xml
